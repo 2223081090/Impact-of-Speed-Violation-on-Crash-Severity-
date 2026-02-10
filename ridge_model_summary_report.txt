@@ -31,7 +31,7 @@ Scoring Metric for CV: R²
 ----------------------------------------
 
 Base Train:
-  R² Score: 0.9550
+  R² Score: 0.9550 = 95.50 % 
   MSE: 272.81
   RMSE: 16.52
   MAE: 10.62
