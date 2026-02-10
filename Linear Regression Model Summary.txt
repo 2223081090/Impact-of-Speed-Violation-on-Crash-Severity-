@@ -1,0 +1,25 @@
+# LINEAR REGRESSION MODEL SUMMARY
+============================================================
+
+**Target Variable**: Total_Casualties  
+**Number of Features**: 22  
+**Training Samples**: 414  
+**Test Samples**: 104  
+
+**PERFORMANCE METRICS**:  
+- **R-squared (R²)**: 1.0000 = 100.00%  
+- **MSE**: 0.0000  
+- **RMSE**: 0.0000  
+- **MAE**: 0.0000  
+
+**TOP 5 FEATURES**:  
+- Num_Injured: 195.891600  
+- Num_Killed: 35.108090  
+- Total_Factors: -0.000000  
+- Total_Crashes: 0.000000  
+- SPV_Prop: -0.000000  
+
+---
+
+**IMPORTANT NOTE**:  
+The perfect R² score (1.0000) and zero errors indicate **target leakage** - some features (particularly `Num_Injured` and `Num_Killed`) are likely direct components of the target variable `Total_Casualties`. This model would not generalize to real-world prediction scenarios.
