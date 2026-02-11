@@ -38,21 +38,21 @@ Base Train:
   MAPE: 16.28%
 
 Base Test:
-  R² Score: 0.9436
+  R² Score: 0.9436 = 94.36 %
   MSE: 302.32
   RMSE: 17.39
   MAE: 10.74
   MAPE: 14.87%
 
 Best Train:
-  R² Score: 0.9552
+  R² Score: 0.9552 = 95.52 % 
   MSE: 271.66
   RMSE: 16.48
   MAE: 10.60
   MAPE: 16.14%
 
 Best Test:
-  R² Score: 0.9434
+  R² Score: 0.9434 = 94.34 % 
   MSE: 303.42
   RMSE: 17.42
   MAE: 10.71
