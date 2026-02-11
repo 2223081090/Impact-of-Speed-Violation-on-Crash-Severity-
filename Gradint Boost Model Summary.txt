@@ -1,0 +1,10 @@
+Training samples: 333
+Test samples:     185
+
+Gradient Boosting Regressor Performance (test set):
+MAE  (crashes): 10.91
+RMSE (crashes): 17.50
+R²            : 0.935 = 93.5 %
+
+Train Score: 99.30120417722613 %
+Test Score: 93.45940671899885 %
