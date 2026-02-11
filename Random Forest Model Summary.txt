@@ -1,0 +1,22 @@
+=== Simplified Hyperparameter Tuning ===
+n_estimators=50, max_depth=5: R² = 0.8868 = 88.68 % 
+n_estimators=50, max_depth=10: R² = 0.8812 = 88.12 %
+n_estimators=50, max_depth=20: R² = 0.8844 = 88.44 %
+n_estimators=100, max_depth=5: R² = 0.8878 = 88.78 %
+n_estimators=100, max_depth=10: R² = 0.8877 = 88.77 %
+n_estimators=100, max_depth=20: R² = 0.8873 = 88.73 %
+n_estimators=200, max_depth=5: R² = 0.8876 = 88.76 %
+n_estimators=200, max_depth=10: R² = 0.8874 = 88.74 %
+n_estimators=200, max_depth=20: R² = 0.8877 = 88.74 %
+
+Best parameters: {'n_estimators': 100, 'max_depth': 5}
+Best R² score: 0.8878 = 88.78 %
+
+=== Example Prediction ===
+Predicted Total Casualties: 178.78
+Actual median Total Casualties in dataset: 217.00
+
+=== Model Summary ===
+The Random Forest Regressor has been successfully trained and evaluated.
+Final model R² on test set: 0.8847
+Model can explain approximately 88.5% of variance in Total Casualties
