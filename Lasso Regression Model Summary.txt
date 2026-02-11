@@ -1,0 +1,20 @@
+============================================================
+APPLYING LASSO REGRESSION
+============================================================
+Training samples: 414
+Testing samples: 104
+Number of features: 17
+
+Model Performance:
+----------------------------------------
+Training R²: 0.9625 = 96.25 %
+Testing R²: 0.9585 = 95.85 %
+Training RMSE: 15.0852
+Testing RMSE: 14.9179
+Training MAE: 9.8264
+Testing MAE: 10.3767
+
+Feature Selection Results:
+Features with non-zero coefficients: 15
+Features shrunk to zero: 2
+Sparsity: 11.76%
