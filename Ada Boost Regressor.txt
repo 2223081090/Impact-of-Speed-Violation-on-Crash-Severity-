@@ -1,0 +1,4 @@
+Test Set Performance:
+MAE  : 12.59
+RMSE : 17.53
+R²   : 0.70 = 70 %
