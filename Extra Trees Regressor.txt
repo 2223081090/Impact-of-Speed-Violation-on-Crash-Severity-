@@ -1,0 +1,21 @@
+--- Evaluation on Test Set ---
+MAE : 9.73
+RMSE: 15.74
+R²  : 0.9538
+
+Top 15 important features:
+ 1. Total_Vehicles_Involved   0.4389
+ 2. State_FCT                 0.2231
+ 3. Other_Factors             0.1051
+ 4. FTQ                       0.0868
+ 5. State_Ogun                0.0696
+ 6. SPV                       0.0147
+ 7. State_Nasarawa            0.0102
+ 8. State_Kaduna              0.0072
+ 9. Year                      0.0057
+10. State_Lagos               0.0057
+11. State_Jigawa              0.0042
+12. PWR                       0.0035
+13. Region_South West         0.0028
+14. State_Oyo                 0.0020
+15. Quarter_Sin               0.0020
