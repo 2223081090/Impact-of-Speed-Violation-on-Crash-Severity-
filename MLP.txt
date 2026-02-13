@@ -1,0 +1,4 @@
+Missing values: 0
+R² Score:  0.8628 = 86.28 %
+MAE:       10.80 fatalities
+RMSE:      15.82 fatalities
