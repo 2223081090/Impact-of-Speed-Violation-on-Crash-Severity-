@@ -1,0 +1,6 @@
+R² Score: 0.979 = 97.9 %
+RMSE: 37.3 casualties
+MAE: 11.6 casualties
+
+Train Score: 1.000 = 100 %
+Test Score: 0.979 = 97.9 %
