@@ -1,0 +1,2 @@
+Train Score: 0.9854 = 98.54 %
+Test Score: 0.8826 = 88.26 %
