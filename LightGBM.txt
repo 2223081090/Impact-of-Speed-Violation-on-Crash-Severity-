@@ -1,0 +1,2 @@
+Train Score: 0.98 = 98 %
+Test Score: 0.91 = 91 %
