@@ -1,0 +1,17 @@
+Model Name,Rank,Train Score (%),Test Score (%),Accuracy (%),Gap (Between Test and Train),Remarks,Model Implementation Code Link In Github
+LightGBM (Light Gradient Boosting Machine),3rd,99.91%,99.55%,99.55%,0.37%,Reliable,LightGBM 
+CatBoost,7th,99.12%,80.50%,80.50%,19.00%,Overfitting,Catboost
+Extra Trees (Extremely Randomized Trees),12th,100.00%,75.00%,75.00%,25.00%,High overfitting,Extra Trees
+Gradient Boosting Decision Tree (GBDT),13th,100.00%,75.00%,75.00%,25.00%,High overfitting,Gradient Boosting
+Stacked Ensemble Learning (Stacking Classifier),9th,100.00%,77.00%,77.00%,23.00%,Overfitting,Stacked
+Voting Classifier (Hard/Soft Voting),10th,100.00%,77.00%,77.00%,23.00%,Overfitting,Voting Classifier
+AdaBoost (Adaptive Boosting),8th,78.12%,77.50%,77.50%,0.62%,Stable,AdaBoost
+TabNet (Deep Learning for Tabular Data),6th,98.56%,98.80%,98.80%,0.24%,Stable,TabNet
+TabTransformer,16th,51.95%,46.66%,46.66%,5.29%,Worst,TabTransformer
+AutoGluon (AutoML Ensemble),5th,99.67%,99.03%,99.03%,0.64%,Good,AutoGluon
+H2O AutoML Models,1st,99.97%,99.94%,99.94%,0.02%,Best,H20AutoML
+Long Short-Term Memory,14th,88.86%,72.55%,72.55%,16.31%,Weak,Long Term Short 
+Convolutional Neural Network (CNN for tabular reshaping),4th,99.75%,99.45%,99.45%,0.29%,High Accuracy,CNN(Tabular)
+Transformer-based Models for Tabular Data,2nd,99.35%,99.70%,99.70%,0.35%,Very Strong,Transformer
+Recurrent Neural Network (RNN),15th,88.66%,67.11%,67.11%,21.55%,Poor,RNN
+Gaussian Process Classification (GPC),11th,75.88%,75.50%,75.50%,0.38%,Low Accuracy,Gaussian
